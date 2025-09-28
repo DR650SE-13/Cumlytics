@@ -1,0 +1,6 @@
+packages:
+  - name: "cumlytics_plugin"
+    display_name: "Cumlytics"
+    description: "Analytics + guided O scheduler with visuals, age heatmaps, tag import, and dashboards."
+    version: "0.1.0"
+    path: "cumlytics_plugin/plugin.yml"
