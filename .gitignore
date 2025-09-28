@@ -1,0 +1,16 @@
+# Ignore nothing in cumlytics_plugin
+!cumlytics_plugin/**
+!index.yml
+!README.md
+!LICENSE
+
+# Ignore Python cache and logs inside cumlytics_plugin
+cumlytics_plugin/__pycache__/
+cumlytics_plugin/*.pyc
+cumlytics_plugin/*.pyo
+cumlytics_plugin/*.log
+
+# Ignore OS/editor junk
+.DS_Store
+Thumbs.db
+*.swp
