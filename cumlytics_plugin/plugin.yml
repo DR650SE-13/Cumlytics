@@ -1,2 +1,6 @@
-name: cumlytics
-version: 0.1.0
+name: cumlytics_plugin
+display_name: Cumlytics
+version: "0.1.0"
+description: "Analytics + guided scheduler with visuals, age heatmaps, tag import, and dashboards."
+entrypoint: main.py
+requirements_file: requirements.txt
